@@ -1,4 +1,4 @@
-# Description & WorkflowProject Overview​
+# Description & Project Workflow Overview​
 
 Horizon Financial Group is facing a serious risk crunch: their personal loan default rate has hit roughly 25% (1 in 4 loans), which is over double their healthy corporate target of 12%. This project analyzes a dataset of over 600 historical loans across 2024 and 2025 to figure out exactly why borrowers are crashing out. By exploring the relationships between borrower demographics, debt levels, and credit history, this analysis provides concrete, data-backed thresholds to help the underwriting team filter out high-risk applicants before the money leaves the bank.
 
